@@ -157,5 +157,90 @@ Se implementaron tres colecciones clave solicitadas:
   "fecha_inicio": "2026-04-01",
   "fecha_fin": "2026-04-30",
   "activo": true
-}
+} ```
+
+
+```
+# Construcción de la Base de Datos (SQL y NoSQL)
+
+## Descripción General
+
+La construcción de la base de datos para el proyecto **EcoAventura** se desarrolló mediante un enfoque híbrido, integrando tecnologías **SQL (modelo relacional)** y **NoSQL (modelo no relacional)**.  
+
+Esta decisión permite aprovechar las fortalezas de ambos enfoques, garantizando la **integridad**, **escalabilidad** y **flexibilidad** en la gestión de la información del sistema.
+
+---
+
+## Base de Datos Relacional (SQL)
+
+La base de datos relacional fue diseñada para estructurar la información crítica del sistema, asegurando consistencia y control mediante reglas bien definidas.
+
+### Justificación
+
+Se optó por el modelo relacional debido a la necesidad de:
+
+- Mantener la **integridad referencial** entre entidades clave como usuarios, compras, productos y transacciones.
+- Garantizar la **consistencia de los datos** mediante restricciones.
+- Facilitar consultas complejas mediante el uso de **JOINs** y relaciones estructuradas.
+
+### Implementación 
+
+- Se definieron **tablas estructuradas** con tipos de datos adecuados.
+- Se implementaron:
+  - **Llaves primarias (PRIMARY KEY)** para identificación única.
+  - **Llaves foráneas (FOREIGN KEY)** para mantener relaciones.
+- Se añadieron restricciones como:
+  - `NOT NULL`
+  - `ENUM` para valores controlados (ej. métodos de pago)
+- Se desarrollaron **procedimientos almacenados** para automatizar:
+  - Generación de compras
+  - Registro de partidas
+
+### Beneficios
+
+- Alta confiabilidad en los datos.
+- Reducción de redundancia.
+- Estructura clara y organizada.
+
+---
+
+## Base de Datos NoSQL
+
+La base de datos NoSQL se implementó para gestionar información flexible y de alto volumen, especialmente aquella que no requiere una estructura rígida.
+
+### Justificación
+
+Se eligió este modelo debido a:
+
+- La necesidad de manejar datos **semi-estructurados o no estructurados**.
+- Mejor rendimiento en operaciones de **lectura y escritura masiva**.
+- Capacidad de **escalabilidad horizontal**.
+
+### Implementación
+
+- Uso de **colecciones** en lugar de tablas.
+- Almacenamiento en formato **documento (JSON)**.
+- Aplicado principalmente en:
+  - Bitácoras
+  - Historial de eventos
+
+### Beneficios
+
+- Flexibilidad en el esquema de datos.
+- Mayor velocidad en operaciones específicas.
+- Adaptabilidad ante cambios del sistema.
+
+---
+
+## Integración SQL + NoSQL
+
+La integración de ambos modelos permite:
+
+- Utilizar **SQL** para datos estructurados y críticos.
+- Utilizar **NoSQL** para datos dinámicos y de gran volumen.
+
+Este enfoque híbrido permite construir un sistema más **robusto, eficiente y escalable**, alineado con las necesidades del proyecto.
+
+---
+
 
