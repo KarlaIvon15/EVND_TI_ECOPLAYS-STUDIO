@@ -242,5 +242,154 @@ La integración de ambos modelos permite:
 Este enfoque híbrido permite construir un sistema más **robusto, eficiente y escalable**, alineado con las necesidades del proyecto.
 
 ---
+# Simulación de Datos 
+
+Este documento describe la implementación de los componentes clave de lógica dentro de la base de datos del videojuego educativo **EcoAventura**, cumpliendo con los requerimientos del punto 3 de la rúbrica.
+
+---
+
+## Procedimientos Almacenados
+
+Los **procedimientos almacenados** fueron implementados para simular el comportamiento real dentro del videojuego, automatizando la generación de datos relacionados con:
+
+- Compras realizadas por adultos  
+- Partidas jugadas por los jugadores  
+- Clasificación de basura dentro del juego  
+- Recolección de residuos  
+- Registro de usuarios  
+
+### Funcionalidad
+
+Estos procedimientos permiten:
+
+- Generar grandes volúmenes de datos de forma controlada  
+- Mantener coherencia lógica entre entidades (usuario → compra → detalle)  
+- Simular escenarios reales del videojuego educativo  
+
+### Ejemplo
+
+`generar_compras` asegura que:
+
+- Existe un adulto  
+- Se genera una compra válida  
+- Se insertan productos relacionados  
+
+Esto cumple con la generación de datos mediante procedimientos garantizando coherencia en el sistema.
+
+---
+## Funciones
+
+Las **funciones** fueron diseñadas para encapsular cálculos clave del sistema, principalmente relacionados con:
+
+- Rendimiento del jugador  
+- Progreso dentro del videojuego  
+- Análisis de compras  
+
+### Funcionalidad
+
+Permiten:
+
+- Reutilizar lógica sin duplicarla  
+- Obtener métricas en tiempo real  
+- Facilitar consultas más complejas  
+
+### Ejemplo
+
+`nivel_jugador` calcula el progreso del usuario en base a sus puntos.
+
+ Esto aporta:
+
+- Lógica clara  
+- Mejor organización del sistema  
+- Análisis de datos simulados  
+
+---
+## Transacciones
+
+Las **transacciones** fueron implementadas para garantizar la integridad de los datos durante operaciones críticas como:
+
+- Registro de compras  
+- Inserción de pedidos  
+- Relación entre múltiples tablas  
+
+### Funcionalidad
+
+Permiten que:
+
+- Si una operación falla → se ejecuta un **ROLLBACK**  
+- Solo se guarda información completa → **COMMIT**  
+
+### Resultado
+
+Se evita que existan:
+
+- Compras sin detalle  
+- Pedidos incompletos  
+
+ Esto garantiza la coherencia e integridad de los datos.
+
+---
+## Triggers
+
+Los **triggers** fueron implementados para automatizar procesos y mantener consistencia en la base de datos sin intervención manual.
+
+### Uso
+
+Se utilizan para:
+
+- Registrar cambios (bitácora implícita)  
+- Mantener sincronización entre tablas  
+- Actualizar estados automáticamente  
+
+### Ejemplo
+
+`actualizar_estado_compra`:
+
+- Cambia el estado de una compra dependiendo de su avance  
+
+ Esto aporta:
+
+- Automatización  
+- Control del sistema  
+- Coherencia en tiempo real  
+
+---
+## Índices
+
+Los **índices** fueron implementados mediante:
+
+- Claves primarias  
+- Claves foráneas  
+- Restricciones únicas  
+
+### Beneficios
+
+Permiten:
+
+- Acceso rápido a los datos  
+- Optimización de consultas  
+- Integridad referencial entre tablas  
+
+### Ejemplo de relaciones
+
+- `adultos → usuarios`  
+- `compras → adultos`  
+- `detalle_compra → compras`  
+
+ Esto mejora:
+
+- Rendimiento  
+- Consistencia del sistema  
+
+---
+
+## Conclusión
+
+La implementación de procedimientos almacenados, funciones, transacciones, triggers e índices permite simular un entorno real dentro del videojuego **EcoAventura**, asegurando:
+
+- Coherencia lógica  
+- Integridad de los datos  
+- Automatización de procesos  
+- Alto rendimiento en consultas  
 
 
