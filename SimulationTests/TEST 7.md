@@ -16,4 +16,4 @@ INSERT INTO recoleccion (id_partida, id_basura, fecha_recoleccion) VALUES (1, 2,
 - **Estatus:** Aprobado 
 - **Evidencia:** Registro visible
 
-![Evidencia Test 7](TEST/TEST%207.png)
+![TEST 7](TEST%207.png)
