@@ -392,6 +392,7 @@ La implementación de procedimientos almacenados, funciones, transacciones, trig
 - Automatización de procesos  
 - Alto rendimiento en consultas
 
+---
 
 #Modelo de Comercialización - EcoAventura
 
