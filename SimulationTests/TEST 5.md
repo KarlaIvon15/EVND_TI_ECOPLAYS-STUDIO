@@ -16,4 +16,4 @@ INSERT INTO partidas (id_jugador, fecha_inicio, fecha_fin, duracion_segundos, pu
 - **Estatus:** Aprobado 
 - **Evidencia:** Nueva partida visible
 
-![Evidencia Test 5](TEST/TEST%205.png)
+![TEST 5](TEST%205.png)
