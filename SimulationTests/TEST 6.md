@@ -16,4 +16,4 @@ UPDATE jugadores SET nickname = 'TestCambio' WHERE id_jugador = 1;
 - **Estatus:** Aprobado 
 - **Evidencia:** Registro en bitácora
 
-  ![Evidencia Test 6](TEST/TEST%206.png)
+  ![TEST 6](TEST%206.png)
