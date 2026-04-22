@@ -16,4 +16,4 @@ CALL clasificar_basura(1, 2);
 - **Estatus:** Aprobado 
 - **Evidencia:** Registro generado
 
-![Evidencia Test 11](TEST/TEST%2011.png)
+![TEST 11](TEST%2011.png)
