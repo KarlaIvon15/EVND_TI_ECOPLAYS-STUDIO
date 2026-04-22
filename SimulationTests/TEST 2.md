@@ -17,4 +17,4 @@ CALL comprar_producto(999, 'Paypal', 2, 1, NOW());
 - **Estatus:** Aprobado 
 - **Evidencia:** No hay registros nuevos en compras
 
-  ![Evidencia Test 2](TEST/TEST%202.png)
+  ![TEST 2](TEST%202.png)
