@@ -1,4 +1,8 @@
-# EVND_TI_ECOPLAYS-STUDIO
+# EVND_TI_ECOPLAYS-STUDIO 
+
+| ![Logo Empresa](Presentacion/Logo_Empresa.png) | ![Logo Juego](Presentacion/LogoJuego.png) |
+| :-------------------------------------------: | :--------------------------------------: |
+|                 Logo Empresa                  |               Logo Juego                 |
 Es repositorio es un ejemplo de como se estructura la documentacion.
 
 ##Diagrama Equipo
