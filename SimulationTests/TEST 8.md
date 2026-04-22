@@ -16,4 +16,4 @@ INSERT INTO recoleccion VALUES (NULL, 1, 99, NOW());
 - **Estatus:** Aprobado 
 - **Evidencia:** Error SQL
 
-![Evidencia Test 8](TEST/TEST%208.png)
+![TEST 8](TEST%208.png)
