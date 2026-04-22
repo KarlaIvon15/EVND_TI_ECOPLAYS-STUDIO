@@ -16,4 +16,4 @@ SELECT * FROM partidas WHERE id_jugador = 2 ORDER BY fecha_fin DESC LIMIT 1;
 - **Estatus:** Aprobado 
 - **Evidencia:** Registro con fecha más reciente
   
-  ![Evidencia Test 3](TEST/TEST%203.png)
+  ![TEST 3](TEST%203.png)
