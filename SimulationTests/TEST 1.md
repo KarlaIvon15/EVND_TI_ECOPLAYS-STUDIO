@@ -1,7 +1,3 @@
-# Pruebas del sistema que validan procedimientos, consultas, triggers, restricciones y transacciones.
----
-Se documentan 12 pruebas diseñadas para validar el correcto funcionamiento del sistema de base de datos. Estas pruebas verifican la ejecución de procedimientos almacenados, consultas SQL, triggers, restricciones de integridad y transacciones, asegurando que los datos se gestionen de manera consistente, segura y sin errores ante distintos escenarios (tanto correctos como fallidos).
-
 ## TEST 1 — Compra válida de producto
 
 - **Nombre:** Compra válida de producto  
@@ -22,4 +18,4 @@ Se documentan 12 pruebas diseñadas para validar el correcto funcionamiento del 
 - **Estatus:** Aprobado 
 - **Evidencia:** Registro exitoso en tablas relacionadas
   
-  ![TEST 1](TEST/TEST%201.png)
+ ![TEST 1](TEST%201.png)
