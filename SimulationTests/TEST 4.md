@@ -16,4 +16,4 @@ SELECT id_jugador, SUM(puntos_totales) AS puntos_acumulados FROM partidas GROUP 
 - **Estatus:** Aprobado 
 - **Evidencia:** Lista filtrada correctamente
 
-![Evidencia Test 4](TEST/TEST%204.png)
+![TEST 4](TEST%204.png)
