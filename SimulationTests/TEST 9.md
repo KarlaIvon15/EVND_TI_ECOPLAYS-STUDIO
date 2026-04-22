@@ -15,4 +15,4 @@ CALL test_transaccion();
 - **Estatus:** Aprobado 
 - **Evidencia:** Datos consistentes
 
-![Evidencia Test 9](TEST/TEST%209.png)
+![TEST 9](TEST%209.png)
