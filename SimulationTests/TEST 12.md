@@ -16,4 +16,4 @@ SELECT j.nickname,p.id_pedido,c.total,t.estado AS estado_transaccion FROM jugado
 - **Estatus:** Aprobado
 - **Evidencia:** Resultado con múltiples tablas
 
-![Evidencia Test 12](TEST/TEST%2012.png)
+![TEST 12](TEST%2012.png)
