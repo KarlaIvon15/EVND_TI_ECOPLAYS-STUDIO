@@ -768,3 +768,8 @@ Los KPIs fueron diseñados para facilitar la interpretación de los datos median
 - **Objetivo:** Medir la actividad y retención.
 
 ---
+
+# Uso Responsable de IA Generativa 
+- En este proyecto se utilizó la Inteligencia Artificial como una herramienta de apoyo para optimizar el desarrollo, mejorar la organización de ideas y facilitar - la generación de contenido. Su uso se realizó de manera responsable, asegurando que todas las aportaciones fueran revisadas, adaptadas y validadas por los integrantes del equipo.
+
+La IA no sustituyó el trabajo humano, sino que funcionó como un complemento para agilizar procesos, resolver dudas técnicas y mejorar la calidad del proyecto. Cada integrante hizo uso consciente de estas herramientas, manteniendo la autoría y comprensión total de los resultados obtenidos.
