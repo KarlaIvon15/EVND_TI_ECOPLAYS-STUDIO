@@ -16,4 +16,4 @@ INSERT INTO jugadores (id_usuario, nickname) VALUES (1, 'RegiTrr21');
 - **Estatus:** Aprobado 
 - **Evidencia:** Error SQL
 
-![Evidencia Test 10](TEST/TEST%2010.png)
+![TEST 10](TEST%2010.png)
