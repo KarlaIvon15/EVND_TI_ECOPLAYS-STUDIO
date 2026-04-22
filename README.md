@@ -1,11 +1,12 @@
 # EVND_TI_ECOPLAYS-STUDIO 
-
-| ![Logo Empresa](Presentacion/Logo Empresa.png) | ![Logo Juego](Presentacion/LogoJuego.png) |
-| :-------------------------------------------: | :--------------------------------------: |
-|                 Logo Empresa                  |               Logo Juego                 |
 Es repositorio es un ejemplo de como se estructura la documentacion.
 
-##Diagrama Equipo
+|    ![Imagen 1](https://github.com/KarlaIvon15/EVND_TI_ECOPLAYS-STUDIO/blob/main/Presentacion/Logo%20Empresa.png)    |    ![Imagen 2](https://github.com/KarlaIvon15/EVND_TI_ECOPLAYS-STUDIO/blob/main/Presentacion/LogoJuego.png)    |
+| :-------------------------------: | :----------------------------------: |
+|           Logo Empresa        |          Logo Juego          |
+
+
+## Diagrama Equipo
 
 ![Diagrama Ecoaventura](Presentacion/diagrama%20ecoaventura_Mesa%20de%20trabajo%201.png)
 
