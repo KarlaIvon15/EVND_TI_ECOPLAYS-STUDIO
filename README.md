@@ -73,11 +73,12 @@ El trabajo se desarrolló de manera colaborativa, siguiendo los lineamientos del
 **Diseño:**
 
 ![Microsoft Visio](https://img.shields.io/badge/Microsoft%20Visio-3955A3?style=for-the-badge&logo=microsoftvisio&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 
 
 **Apoyo:**
 
-
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 
 
