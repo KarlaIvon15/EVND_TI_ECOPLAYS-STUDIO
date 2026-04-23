@@ -60,7 +60,7 @@ El trabajo se desarrolló de manera colaborativa, siguiendo los lineamientos del
 
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
 **Bases de Datos:**
 
@@ -69,7 +69,7 @@ El trabajo se desarrolló de manera colaborativa, siguiendo los lineamientos del
 ![Navicat](https://img.shields.io/badge/Navicat-FF6A00?style=for-the-badge&logo=data&logoColor=white)
 
 **Análisis:**
-
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 
 **Diseño:**
