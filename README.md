@@ -55,6 +55,8 @@ El trabajo se desarrolló de manera colaborativa, siguiendo los lineamientos del
 <p align="justify">
 
 **Desarrollo:**
+
+
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 
@@ -74,6 +76,8 @@ El trabajo se desarrolló de manera colaborativa, siguiendo los lineamientos del
 
 
 **Apoyo:**
+
+
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 
 
