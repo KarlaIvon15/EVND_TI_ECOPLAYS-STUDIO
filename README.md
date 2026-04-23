@@ -30,16 +30,9 @@ Diseñar y desarrollar videojuegos educativos interactivos que promuevan la cult
 * **Implementar** mecánicas de juego que simulen de forma precisa el proceso de clasificación de residuos (orgánicos, inorgánicos, papel, vidrio, etc.).
 * **Evaluar** el nivel de aprendizaje y concienciación adquirido por los usuarios tras interactuar con las dinámicas educativas del estudio.
 * **Establecer** un flujo de documentación técnica y gráfica que permita la escalabilidad de futuros proyectos educativos dentro del estudio.
-*
-## Diagrama Equipo
-
-![Diagrama Ecoaventura](Presentacion/diagrama%20ecoaventura_Mesa%20de%20trabajo%201.png)
-El trabajo se desarrolló de manera colaborativa, siguiendo los lineamientos del proyecto integrador del curso y promoviendo la participación activa de todos los integrantes del equipo.
-
-## DIAGRAMA DE GANNT
-![Diagrama Gantt](Presentacion/GANTT_Mesa%20de%20trabajo%201.jpg)
-
+---
 ### Tabla de colaboradores con enlaces a sus perfiles
+El trabajo se desarrolló de manera colaborativa, siguiendo los lineamientos del proyecto integrador del curso y promoviendo la participación activa de todos los integrantes del equipo.
 
 | Nombre                          | Rol                          | GitHub |
 |---------------------------------|------------------------------|--------|
@@ -48,6 +41,15 @@ El trabajo se desarrolló de manera colaborativa, siguiendo los lineamientos del
 | Karol Janeth Gonzalez Vargas    | Director de Arte   | [@Karol-JanethGV](https://github.com/Karol-JanethGV) |
 | Avry Salas Hernandez            | Programador Líder   | [@Avryl-Salas](https://github.com/Avryl-Salas) |
 | Daniel Gómez Hernández          | Documentación, Logística y Administración   | [@DanielGOMHER](https://github.com/DanielGOMHER) |
+
+---
+## Diagrama Equipo
+
+![Diagrama Ecoaventura](Presentacion/diagrama%20ecoaventura_Mesa%20de%20trabajo%201.png)
+
+---
+## DIAGRAMA DE GANNT
+![Diagrama Gantt](Presentacion/GANTT_Mesa%20de%20trabajo%201.jpg)
 
 ---
 ###  LISTA DE TECNOLOGÍAS
