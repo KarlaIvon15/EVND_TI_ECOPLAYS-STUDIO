@@ -35,6 +35,10 @@ Diseñar y desarrollar videojuegos educativos interactivos que promuevan la cult
 
 ![Diagrama Ecoaventura](Presentacion/diagrama%20ecoaventura_Mesa%20de%20trabajo%201.png)
 El trabajo se desarrolló de manera colaborativa, siguiendo los lineamientos del proyecto integrador del curso y promoviendo la participación activa de todos los integrantes del equipo.
+
+## DIAGRAMA DE GANNT
+![Diagrama Gantt](Presentacion/GANTT_Mesa%20de%20trabajo%201.jpg)
+
 ### Tabla de colaboradores con enlaces a sus perfiles
 
 | Nombre                          | Rol                          | GitHub |
