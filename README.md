@@ -50,19 +50,7 @@ El trabajo se desarrolló de manera colaborativa, siguiendo los lineamientos del
 | Daniel Gómez Hernández          | Documentación, Logística y Administración   | [@DanielGOMHER](https://github.com/DanielGOMHER) |
 
 ---
-# Modelado de Datos y Representación
-
----
-
-## Modelo Entidad-Relación (MER - Visio)
-
-El Modelo Entidad-Relación (MER) fue diseñado utilizando Microsoft Visio, permitiendo representar de manera conceptual la estructura del sistema del videojuego EcoAventura.
-
-Este modelo identifica las entidades principales del sistema, sus atributos y las relaciones entre ellas, proporcionando una visión clara de cómo interactúan los datos dentro del videojuego.
-
-### Entidades principales identificadas
-
-- Usuarios  
+suarios  
 - Jugadores  
 - Adultos  
 - Productos  
