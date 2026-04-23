@@ -34,7 +34,18 @@ Diseñar y desarrollar videojuegos educativos interactivos que promuevan la cult
 ## Diagrama Equipo
 
 ![Diagrama Ecoaventura](Presentacion/diagrama%20ecoaventura_Mesa%20de%20trabajo%201.png)
+El trabajo se desarrolló de manera colaborativa, siguiendo los lineamientos del proyecto integrador del curso y promoviendo la participación activa de todos los integrantes del equipo.
+### Tabla de colaboradores con enlaces a sus perfiles
 
+| Nombre                          | Rol                          | GitHub |
+|---------------------------------|------------------------------|--------|
+| Erandy Belen Morales Mendoza    | Gestor de Comunidad   | [@Erandymm](https://github.com/Erandymm) |
+| Karla Ivon Vargas Tavera        | Director General / Diseñador Líder   | [@KarlaIvon15](https://github.com/KarlaIvon15) |
+| Karol Janeth Gonzalez Vargas    | Director de Arte   | [@Karol-JanethGV](https://github.com/Karol-JanethGV) |
+| Avry Salas Hernandez            | Programador Líder   | [@Avryl-Salas](https://github.com/Avryl-Salas) |
+| Daniel Gómez Hernández          | Documentación, Logística y Administración   | [@DanielGOMHER](https://github.com/DanielGOMHER) |
+
+---
 # Modelado de Datos y Representación
 
 ---
