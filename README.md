@@ -61,7 +61,8 @@ El trabajo se desarrolló de manera colaborativa, siguiendo los lineamientos del
 **Bases de Datos:**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Navicat](https://img.shields.io/badge/Navicat-FF6A00?style=for-the-badge&logo=data&logoColor=white)
 
 **Análisis:**
 
