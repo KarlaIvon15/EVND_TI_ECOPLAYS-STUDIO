@@ -826,7 +826,7 @@ La IA no sustituyó el trabajo humano, sino que funcionó como un complemento pa
   [Ver evidencia]([Ver evidencia](Prompting/PROMPTS%20IA/Erandy%20Belen%20Morales%20Mendoza/PROMPTS%20Erandy%20Belen%20.pdf))
 
 - Integrante 4  
-  [Ver evidencia]([Ver evidencia](Prompting/PROMPTS%20IA/Karla%20Ivon%20Vargas%20Tavera/PROMPTS%20Karla%20Ivon.pdf)
+  [Ver evidencia]([Ver evidencia](Prompting/PROMPTS%20IA/Karla%20Ivon%20Vargas%20Tavera/PROMPTS%20Karla%20Ivon.pdf))
 
 - Integrante 5  
-  [Ver evidencia]([Ver evidencia](Prompting/PROMPTS%20IA/Karol%20Janeth%20Gónzales%20Vargas/PROMPTS%20Karol%20Janeth.pdf).
+  [Ver evidencia]([Ver evidencia](Prompting/PROMPTS%20IA/Karol%20Janeth%20Gónzales%20Vargas/PROMPTS%20Karol%20Janeth.pdf).)
