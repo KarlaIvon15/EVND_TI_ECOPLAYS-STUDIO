@@ -50,4 +50,30 @@ El trabajo se desarrolló de manera colaborativa, siguiendo los lineamientos del
 | Daniel Gómez Hernández          | Documentación, Logística y Administración   | [@DanielGOMHER](https://github.com/DanielGOMHER) |
 
 ---
+###  LISTA DE TECNOLOGÍAS
 
+<p align="justify">
+
+**Desarrollo:**
+
+
+
+**Bases de Datos:**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+**Análisis:**
+
+
+
+**Diseño:**
+
+![Microsoft Visio](https://img.shields.io/badge/Microsoft%20Visio-3955A3?style=for-the-badge&logo=microsoftvisio&logoColor=white)
+
+
+**Apoyo:**
+
+
+
+</p>
