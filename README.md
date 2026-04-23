@@ -1,5 +1,8 @@
 # EVND_TI_ECOPLAYS-STUDIO 
-Es repositorio es un ejemplo de como se estructura la documentacion.
+
+## ECO PLAYS ESTUDIO - IDENTIDAD GRÁFICA
+
+La identidad gráfica de **ECO PLAYS ESTUDIO** busca transmitir valores de sostenibilidad, educación ambiental, conciencia ecológica e innovación. Cada elemento visual está diseñado para resonar con la audiencia, destacando la importancia del reciclaje y la participación activa de los jugadores en la preservación de nuestro planeta a través de experiencias digitales lúdicas.
 
 |    ![Imagen 1](https://github.com/KarlaIvon15/EVND_TI_ECOPLAYS-STUDIO/blob/main/Presentacion/Logo%20Empresa.png)    |    ![Imagen 2](https://github.com/KarlaIvon15/EVND_TI_ECOPLAYS-STUDIO/blob/main/Presentacion/LogoJuego.png)    |
 | :-------------------------------: | :----------------------------------: |
