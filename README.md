@@ -8,6 +8,9 @@ La identidad gráfica de **ECO PLAYS ESTUDIO** busca transmitir valores de soste
 | :-------------------------------: | :----------------------------------: |
 |           Logo Empresa        |          Logo Juego          |
 
+## DESCRIPCIÓN
+
+Se busca implementar una serie de videojuegos educativos que funcionen como herramientas de aprendizaje interactivo. El enfoque principal es la gamificación del reciclaje, permitiendo que los usuarios comprendan el ciclo de vida de los residuos mientras se divierten en mundos diseñados con estética Pixel Art.
 
 ## Diagrama Equipo
 
