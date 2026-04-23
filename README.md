@@ -12,6 +12,25 @@ La identidad gráfica de **ECO PLAYS ESTUDIO** busca transmitir valores de soste
 
 Se busca implementar una serie de videojuegos educativos que funcionen como herramientas de aprendizaje interactivo. El enfoque principal es la gamificación del reciclaje, permitiendo que los usuarios comprendan el ciclo de vida de los residuos mientras se divierten en mundos diseñados con estética Pixel Art.
 
+## PLANTEAMIENTO DEL PROBLEMA
+
+Actualmente, existe una falta de conciencia y educación práctica sobre la gestión de residuos sólidos en las etapas tempranas del desarrollo. A pesar de la disponibilidad de información teórica, los métodos tradicionales de enseñanza suelen ser pasivos y poco atractivos para las nuevas generaciones. Esto genera una desconexión entre el conocimiento del reciclaje y la ejecución real de hábitos sostenibles, lo que contribuye al incremento de la contaminación ambiental a nivel global.
+
+## PROPUESTA DE SOLUCIÓN
+
+Desarrollar una plataforma de videojuegos educativos bajo el sello de **EcoPlays Estudio**, específicamente el título **EcoAventura**. La solución utiliza la gamificación para transformar el aprendizaje del reciclaje en una experiencia inmersiva y divertida. Mediante mecánicas de simulación y una estética visual atractiva (Pixel Art), los jugadores pueden experimentar las consecuencias de sus acciones ambientales en un entorno controlado, reforzando la retención del conocimiento y fomentando un cambio de comportamiento en el mundo real.
+
+## OBJETIVO GENERAL
+
+Diseñar y desarrollar videojuegos educativos interactivos que promuevan la cultura del reciclaje y la sostenibilidad ambiental, utilizando mecánicas de juego para sensibilizar a la población juvenil sobre el cuidado del medio ambiente.
+
+## OBJETIVOS ESPECÍFICOS
+
+* **Desarrollar** una interfaz intuitiva y atractiva mediante estética Pixel Art que facilite la interacción del usuario con los conceptos de sostenibilidad.
+* **Implementar** mecánicas de juego que simulen de forma precisa el proceso de clasificación de residuos (orgánicos, inorgánicos, papel, vidrio, etc.).
+* **Evaluar** el nivel de aprendizaje y concienciación adquirido por los usuarios tras interactuar con las dinámicas educativas del estudio.
+* **Establecer** un flujo de documentación técnica y gráfica que permita la escalabilidad de futuros proyectos educativos dentro del estudio.
+*
 ## Diagrama Equipo
 
 ![Diagrama Ecoaventura](Presentacion/diagrama%20ecoaventura_Mesa%20de%20trabajo%201.png)
