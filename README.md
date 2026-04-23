@@ -51,19 +51,3 @@ El trabajo se desarrolló de manera colaborativa, siguiendo los lineamientos del
 
 ---
 
-## Evidencia de uso de IA por integrante
-
-- Integrante 1  
-  [Ver evidencia]([Ver evidencia](Prompting/PROMPTS%20IA/Avryl%20Salas%20Hernández/PROMPTS%20Avryl%20Salas.pdf))
-
-- Integrante 2  
-  [Ver evidencia]([Ver evidencia](Prompting/PROMPTS%20IA/Daniel%20Gómez%20Hernández/PROMPTS%20Daniel%20Gómez.pdf))
-
-- Integrante 3  
-  [Ver evidencia]([Ver evidencia](Prompting/PROMPTS%20IA/Erandy%20Belen%20Morales%20Mendoza/PROMPTS%20Erandy%20Belen%20.pdf))
-
-- Integrante 4  
-  [Ver evidencia]([Ver evidencia](Prompting/PROMPTS%20IA/Karla%20Ivon%20Vargas%20Tavera/PROMPTS%20Karla%20Ivon.pdf))
-
-- Integrante 5  
-  [Ver evidencia]([Ver evidencia](Prompting/PROMPTS%20IA/Karol%20Janeth%20Gónzales%20Vargas/PROMPTS%20Karol%20Janeth.pdf).)
